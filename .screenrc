@@ -3,7 +3,7 @@ escape ^Kk
 hardstatus alwayslastline %w
 
 defscrollback 10000
-defencoding UTF-8
-encoding UTF-8
+defencoding utf8
+encoding utf8
 
 bind o select

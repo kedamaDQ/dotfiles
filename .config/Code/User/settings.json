@@ -1,8 +1,10 @@
 {
     "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.enablePreview": false,
     "window.menuBarVisibility": "toggle",
     "window.zoomLevel": 0,
     "editor.tabSize": 2,
     "terminal.integrated.fontFamily": "Myrica M",
-    "terminal.integrated.fontSize": 16
+    "terminal.integrated.fontSize": 16,
+    "ruby.rubocop.executePath": ""
 }
