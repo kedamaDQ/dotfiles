@@ -23,3 +23,4 @@ set wildmenu
 
 " syntax
 syntax on
+set modeline
