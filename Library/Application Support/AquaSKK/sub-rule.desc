@@ -1,0 +1,7 @@
+###
+### sub-rule.desc
+###
+
+exclamation.rule	「！」を全角にする
+question.rule		「？」を全角にする
+
