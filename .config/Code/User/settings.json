@@ -10,4 +10,7 @@
     // For sets executePath to blank, need to define Exec=/usr/bin/bash -li /opt/VSCode-linux-x64/bin/code into desktop entries.
     "ruby.rubocop.executePath": "",
     "ruby.rctComplete.commandPath": "rct-complete",
+    // opt out
+    "telemetry.enableTelemetry": false,
+    "terminal.integrated.rendererType": "dom"
 }
