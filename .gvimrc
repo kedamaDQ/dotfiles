@@ -10,3 +10,4 @@ set clipboard=unnamedplus
 
 " Use display frash instead of beep.
 set visualbell
+set backspace=indent,eol,start
