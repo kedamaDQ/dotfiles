@@ -24,3 +24,6 @@ set wildmenu
 " syntax
 syntax on
 set modeline
+
+" dobule width char
+set ambiwidth=double
