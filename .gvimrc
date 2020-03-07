@@ -16,3 +16,4 @@ set lines=36
 " Use display frash instead of beep.
 set visualbell
 set backspace=indent,eol,start
+set ambiwidth=double
