@@ -3,13 +3,15 @@ colorscheme evening
 set guioptions=aegiLtm
 set lines=36
 
-" for MacVIM
-set gfn=Myrica\ M\ 12
-set clipboard=unnamed
+"" Font setting for Mac, Linux
+" set gfn=Myrica\ M\ 12
+"" Font setting for Windows
+" set gfn=Myrica_M:h12
 
-" for Windows gVim
-" set gfn=Ricty\ Diminished\ Discord\ 12
-" set clipboard=unnamedplus
+"" Clipboard setting for Mac
+" set clipboard=unnamed
+"" Clipboard setting for Windos, Linux
+" set clipboard=unnamedplus,autoselect
 
 " Use display frash instead of beep.
 set visualbell
