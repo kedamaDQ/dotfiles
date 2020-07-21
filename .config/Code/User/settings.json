@@ -3,7 +3,6 @@
     "workbench.editor.enablePreview": false,
     "window.menuBarVisibility": "toggle",
     "window.zoomLevel": 0,
-    "editor.tabSize": 2,
     "terminal.integrated.fontSize": 16,
     "files.insertFinalNewline": true,
     // For sets executePath to blank, need to define Exec=/usr/bin/bash -li /opt/VSCode-linux-x64/bin/code into desktop entries.
@@ -11,5 +10,10 @@
     "ruby.rctComplete.commandPath": "rct-complete",
     // opt out
     "telemetry.enableTelemetry": false,
-    "terminal.integrated.rendererType": "dom"
+    "terminal.integrated.rendererType": "dom",
+    "rust.all_features": true,
+    "rust.clippy_preference": "on",
+    "rust-client.nestedMultiRootConfigInOutermost": false,
+    "editor.insertSpaces": false,
+    "explorer.autoReveal": false,
 }
