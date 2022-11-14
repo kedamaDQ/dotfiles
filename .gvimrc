@@ -4,7 +4,7 @@ set guioptions=aegiLtm
 set lines=36
 
 "" Font setting for Mac, Linux
-set gfn=Myrica\ M\ 12
+set gfn=PlemolJP\ Console\ Medium\ 13
 "" Font setting for Windows
 " set gfn=Myrica_M:h12
 
