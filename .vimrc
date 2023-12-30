@@ -27,3 +27,6 @@ set modeline
 
 " dobule width char
 set ambiwidth=double
+
+" prevent auto line breaks
+set textwidth=0
